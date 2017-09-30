@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+}
+div#qu{
+  position: relative;
+  top: 200px;
+  font-size: 200%;
+}
+input{
+  position: relative;
+  top: 225px;
+  font-size: 200%;
+}
+button{
+  position: relative;
+  top: 250px;
+  font-size: 200%;
+}
+div#hello{
+  position: relative;
+  top: 275px;
+  font-size: 200%;
+}
